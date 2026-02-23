@@ -4,3 +4,4 @@
 
 ### Hi, my name is Samir 👋 and I ❤️ AI, LLM and SOTA methods
 
+**Field of interests**: LLM, NLP, RL, Graphs, Large-Scale AI Distributed Systems
