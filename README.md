@@ -16,3 +16,13 @@
 - **DevOps**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Linux, Git, Docker, Jenkins, CI/CD
 - **MLOps**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Weights & Biases,TensorBoard, MLflow
 - **Observability**: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Grafana
+
+### Work experience 👔
+| Job Position                          | Company                                    | Field/Project                                                                          | Work Period           |
+| ------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------------------- | --------------------- |
+| **Senior Neural Network Developer**   | **Alfa Bank**                              | **NLP/Agents, RAG**                                                                    | **2025-10 — present** |
+| Expert Data Scientist                 | Rosneft                                    | NLP/ Conversational AI assistant                                                       | 2024-06 — 2025-10     |
+| Senior Data Scientist                 | VTB Bank                                   | ML/ Treasury and market risk models                                                    | 2023-06 — 2023-10     |
+| Middle Data Scientist                 | Hoff Tech                                  | ML/ Regular demand forecasting project                                                 | 2022-01 — 2023-02     |
+| Associate Professor                   | Bauman Moscow State Technical University   | Lectures/ Mathematical Modeling, Strength of Materials                                 | 2019-11 — 2021-06     |
+| Research Engineer                     | SKOLKOVO                                   | Numerical Methods & Simulation/Java-Powered Industrial Simulation & Digital Twins      | 2018-04 — 2019-05     |
