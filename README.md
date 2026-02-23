@@ -2,6 +2,9 @@
 ![](https://img.shields.io/github/followers/SamirAlZgul?style=social)<br>
 ![](https://img.shields.io/github/stars/SamirAlZgul?style=social)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamirAlZgul)](https://git.io/streak-stats)
+
+![Leetcode Stats](https://leetcard.jacoblin.cool/SamirAlZgul)
+
 ### Hi, my name is Samir 👋 and I ❤️ AI, LLM and SOTA methods
 
 **Field of interests**: LLM, NLP, Agents, Large-Scale AI Distributed Systems
