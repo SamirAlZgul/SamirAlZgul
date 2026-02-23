@@ -39,5 +39,5 @@
 
 ### Certifications 📜
 - [HardML (Ranking and matching)] @ KarpovCourses
-- ![Deep Learning Engineer. NLP]() @ KarpovCourses
-- [Deep learning Base (introductory Course](https://github.com/SamirAlZgul/SamirAlZgul/blob/main/772895508.png?raw=true) @ KarpovCourses
+- ![Deep Learning Engineer. NLP](https://github.com/SamirAlZgul/SamirAlZgul/blob/main/773486674.png?raw=true) @ KarpovCourses
+- ![Deep learning Base (introductory Course)](https://github.com/SamirAlZgul/SamirAlZgul/blob/main/772895508.png?raw=true) @ KarpovCourses
