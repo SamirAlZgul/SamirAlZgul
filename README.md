@@ -8,7 +8,7 @@
 
 ### Skills 🛠️
 - **Languages**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Python, SQL, Java
-- **DS/ML/DL**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SkLearn, PyTorch, Transformers, TensorFlow, Keras, LangChain, LangGraph, vLLM, NLTK 
+- **DS/ML/DL**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; SkLearn, PyTorch, Transformers, TensorFlow, Keras, LangChain, LangGraph, vLLM, NLTK 
 - **Vector Databases**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; FAISS, OpenSearch, Chroma
 - **Relational Databases**:  &nbsp;&nbsp;      PostgreSQL, MySQL, ClickHouse
 - **NoSQL & Caching**:   &nbsp;&nbsp;          Redis                 
