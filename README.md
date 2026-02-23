@@ -32,6 +32,9 @@
 - [Master’s Degree](https://github.com/SamirAlZgul/prior-knowledge-layer-for-sequence-tagging) @ Moscow State Technical University (2017 - 2019)
 - [Bachelor's Degree](https://github.com/SamirAlZgul/bachelor-diploma) @ Moscow State Technical University (2012 - 2016)
 
+[![My LeetCode stats](https://leetcode-stats-six.vercel.app/?username=SamirAlZgul)](https://github.com/KnlnKS/leetcode-stats)
+
+
 ### Projects 🐾
 - [GAN](https://github.com/SamirAlZgul/FaceGeneration) - Fine-tuning GAN to create realistic images of faces Pytorch and Torchvision
 - [RAG](https://github.com/SamirAlZgul/RAGSystem/tree/main) - Assistant who will be able to answer any questions about the lives of famous personalities using Pytorch, Langchain, Chroma
