@@ -5,7 +5,7 @@ This profile is a natural extension of another my profile - https://github.com/S
 ![](https://img.shields.io/github/stars/SamirAlZgul?style=social)<br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamirAlZgul)](https://git.io/streak-stats)
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/samir555)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SamirAlZgul)
 
 ### Hi, my name is Samir 👋 and I ❤️ AI, LLM and SOTA methods
 
