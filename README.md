@@ -49,6 +49,3 @@ This profile is a natural extension of another my profile - https://github.com/S
 - [HardML (Ranking and matching)] @ KarpovCourses
 - ![Deep Learning Engineer. NLP](https://github.com/SamirAlZgul/SamirAlZgul/blob/main/773486674.png?raw=true) @ KarpovCourses
 - ![Deep learning Base (introductory Course)](https://github.com/SamirAlZgul/SamirAlZgul/blob/main/772895508.png?raw=true) @ KarpovCourses
-
-### GitHub Stats ⭐
-[![MY LeetCode stats](https://leetcode-stats-six.vercel.app/?username=SamirAlZgul)](https://github.com/KnlnKS/leetcode-stats)
