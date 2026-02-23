@@ -26,3 +26,8 @@
 | Middle Data Scientist                 | Hoff Tech                                  | ML/ Regular demand forecasting project                                                 | 2022-01 — 2023-02     |
 | Associate Professor                   | Bauman Moscow State Technical University   | Lectures/ Mathematical Modeling, Strength of Materials                                 | 2019-11 — 2021-06     |
 | Research Engineer                     | SKOLKOVO                                   | Numerical Methods & Simulation/Java-Powered Industrial Simulation & Digital Twins      | 2018-04 — 2019-05     |
+
+### Education 🎓
+- [PHD](https://github.com/SamirAlZgul/prior-knowledge-layer-for-sequence-tagging) @ Don State Technical University (2024 - present)
+- [Master’s Degree](https://github.com/SamirAlZgul/prior-knowledge-layer-for-sequence-tagging) @ Moscow State Technical University (2017 - 2019)
+- [Bachelor's Degree](https://github.com/SamirAlZgul/bachelor-diploma) @ Moscow State Technical University (2012 - 2016)
