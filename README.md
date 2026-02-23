@@ -36,3 +36,8 @@
 - [GAN](https://github.com/SamirAlZgul/FaceGeneration) - Fine-tuning GAN to create realistic images of faces Pytorch and Torchvision
 - [RAG](https://github.com/SamirAlZgul/RAGSystem/tree/main) - Assistant who will be able to answer any questions about the lives of famous personalities using Pytorch, Langchain, Chroma
 - [NER](https://github.com/SamirAlZgul/FindNearestTexts) - Module of the question-answer system, searching for similar texts based on prompt from the user with UX using PyTorch, FastAPI, Jinja2
+
+### Certifications 📜
+- [HardML (Ranking and matching)] @ KarpovCourses
+- [Deep Learning Engineer. NLP] @ KarpovCourses
+- [Deep learning Base (introductory Course)] @ KarpovCourses
