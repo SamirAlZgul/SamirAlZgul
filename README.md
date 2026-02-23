@@ -12,7 +12,7 @@
 - **Vector Databases**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FAISS, OpenSearch, Chroma
 - **Relational Databases**:&nbsp;&nbsp;PostgreSQL, MySQL, ClickHouse
 - **NoSQL & Caching**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Redis                 
-- **Big Data**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hadoop, Pyspark
+- **Big Data**:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hadoop, Pyspark
 - **DevOps**:    &nbsp;&nbsp;&nbsp;&nbsp;      Linux, Git, Docker, Jenkins, CI/CD
 - **MLOps**: &nbsp;&nbsp;&nbsp;&nbsp;          Weights & Biases,TensorBoard, MLflow
 - **Observability**: &nbsp;&nbsp;&nbsp;&nbsp;  Grafana
