@@ -34,8 +34,8 @@ This profile is a natural extension of another my profile - https://github.com/S
 
 ### Education 🎓
 - [PHD](https://github.com/SamirAlZgul/prior-knowledge-layer-for-sequence-tagging) @ Don State Technical University (2024 - present)
-- [Master’s Degree](https://github.com/SamirAlZgul/prior-knowledge-layer-for-sequence-tagging) @ Moscow State Technical University (2017 - 2019)
-- [Bachelor's Degree](https://github.com/SamirAlZgul/bachelor-diploma) @ Moscow State Technical University (2012 - 2016)
+- [Master’s Degree](https://github.com/SamirAlZgul/prior-knowledge-layer-for-sequence-tagging) @ Bauman Moscow State Technical University (2017 - 2019)
+- [Bachelor's Degree](https://github.com/SamirAlZgul/bachelor-diploma) @ Bauman Moscow State Technical University (2012 - 2016)
 
 ### Projects 🐾
 - [GAN](https://github.com/SamirAlZgul/FaceGeneration) - Fine-tuning GAN to create realistic images of faces Pytorch and Torchvision
