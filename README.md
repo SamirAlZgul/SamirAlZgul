@@ -38,6 +38,7 @@ This profile is a natural extension of another my profile - https://github.com/S
 - [Bachelor's Degree](https://github.com/SamirAlZgul/bachelor-diploma) @ Bauman Moscow State Technical University (2012 - 2016)
 
 ### Projects 🐾
+- [Agent](https://github.com/SamirAlZgul/Agent_FinGuard) - An intelligent financial assistant that combines real-time financial data (Yahoo Finance) with synthetic document analysis through RAG (Retrieval-Augmented Generation) 
 - [GAN](https://github.com/SamirAlZgul/FaceGeneration) - Fine-tuning GAN to create realistic images of faces Pytorch and Torchvision
 - [RAG](https://github.com/SamirAlZgul/RAGSystem/tree/main) - Assistant who will be able to answer any questions about the lives of famous personalities using Pytorch, Langchain, Chroma
 - [NER](https://github.com/SamirAlZgul/FindNearestTexts) - Module of the question-answer system, searching for similar texts based on prompt from the user with UX using PyTorch, FastAPI, Jinja2
